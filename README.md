@@ -1,7 +1,9 @@
 # WDM-Ex.NO-8-TEXT-CLASSIFICATION
-Aim:
+
+**Aim:**
 To perform text classification for movie reviews using python.
-Description:
+
+**Description:**
 Steps required to create a text classification model in Python:
 1.	Importing Libraries
 2.	Importing The dataset
